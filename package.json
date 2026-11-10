@@ -1,0 +1,8 @@
+{
+  "name": "ganesh-clone",
+  "version": "1.0.0",
+  "description": "Tiny private chat site for two friends",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
